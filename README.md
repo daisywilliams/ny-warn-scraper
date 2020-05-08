@@ -18,7 +18,8 @@ Restructuring <br>
 Transfer <br> 
 Weather related <br>
 
-<p> Some major findings I have come across are : <br>
+
+Some major findings I have come across are : <br>
 - Normally Economic is the number one reason
 - The number one Economic cases in 2016, 2017, 2018 and 2019 equal how many COVID cases there have been 
 - Last years notices are nearly a quarter of the total of 2020's 
