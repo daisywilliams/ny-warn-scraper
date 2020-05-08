@@ -1,4 +1,4 @@
-<CENTER> COVID-19 OVERTAKING WARN - DAISY WILLIAMS </CENTER>
+COVID-19 OVERTAKING WARN - DAISY WILLIAMS 
 
 ### This year, the amount of notices to WARN regarding COVID-19 has surpassessed any other cause over the past 5 years. 
 
@@ -28,7 +28,7 @@ Some major findings I have come across are : <br>
 
 
 
-#### GUIDE TO MY FILES 
+### GUIDE TO MY FILES 
 #### - Assets Folder 
 - A google document of text I wrote
 #### - Data Folder 
