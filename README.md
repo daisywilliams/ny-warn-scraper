@@ -1,4 +1,4 @@
-COVID-19 OVERTAKING WARN - DAISY WILLIAMS 
+COVID-19 OVERTAKING WARN - DAISY WILLIAMS - https://daisywilliams.github.io/ny-warn-scraper/
 
 ### This year, the amount of notices to WARN regarding COVID-19 has surpassessed any other cause over the past 5 years. 
 
