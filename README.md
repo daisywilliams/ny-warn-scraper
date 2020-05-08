@@ -2,7 +2,7 @@ COVID-19 OVERTAKING WARN
 
 ### This year, the amount of notices to WARN regarding COVID-19 has surpassessed any other cause over the past 5 years. 
 
-I've taken the data from 2015-2020, organized the dislocation portion into one of the following categories 
+I've taken the data from 2015-2020, organized the dislocation portion into one of the following categories <br>  
 Acquisition/Sale <br> 
 Construction <br> 
 Contract Loss/End <br> 
@@ -18,6 +18,7 @@ Restructuring <br>
 Transfer <br> 
 Weather related <br>
 
+<p> Some major findings I have come across are : <br>
 - Normally Economic is the number one reason
 - The number one Economic cases in 2016, 2017, 2018 and 2019 equal how many COVID cases there have been 
 - Last years notices are nearly a quarter of the total of 2020's 
